@@ -1,0 +1,81 @@
+Remedios;Cliente_id;Nome;idade;sexo;Uf;Escolaridade;Renda;Civil;Sintomas;Data
+"Amoxicilina;";1;Lars Maynard;78;Feminino;MA;Medio;6050;Casado;Incontinencia_urinaria;2022-05-08
+"Amoxicilina; Escitalopram; Azitromicina;";2;Zane Mullen;70;Feminino;RS;Primario;6866;Viuvo;Insonia;2021-09-19
+"Amoxicilina;";4;Ignacia Pugh;73;Masculino;MA;Superior;4567;Casado;Normal;2022-10-19
+"Amoxicilina;";4;Ignacia Pugh;73;Masculino;MA;Superior;4567;Casado;Vomito;2021-12-02
+"Amoxicilina;";4;Ignacia Pugh;73;Masculino;MA;Superior;4567;Casado;Lapsos_de_memoria;2022-05-16
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";8;Kylee Leonard;70;Masculino;MG;Superior;5854;Casado;Agressividade;2021-04-28
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";8;Kylee Leonard;70;Masculino;MG;Superior;5854;Casado;Agressividade;2022-11-15
+"Amoxicilina; Escitalopram; Azitromicina;";10;Samuel Petty;97;Feminino;RJ;Primario;5688;Casado;Normal;2022-07-10
+"Amoxicilina; Escitalopram; Azitromicina;";10;Samuel Petty;97;Feminino;RJ;Primario;5688;Casado;Vomito;2020-10-31
+"Amoxicilina; Escitalopram; Azitromicina;";12;Dolan Avery;94;Masculino;SC;Medio;6071;Solteiro;Incontinencia_urinaria;2020-10-29
+"Amoxicilina;";13;Zeus Hartman;69;Masculino;RS;Superior;7102;Viuvo;Normal;2022-10-23
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina; Losartana;";19;Orla Marsh;93;Feminino;SP;Superior;8036;Solteiro;Lapsos_de_memoria;2020-11-28
+"Amoxicilina; Escitalopram; Azitromicina;";21;Raymond Hines;85;Feminino;PB;Superior;7194;Casado;Lapsos_de_memoria;2020-08-29
+"Amoxicilina;";22;Cairo Kramer;88;Feminino;RS;Primario;6942;Casado;Incontinencia_urinaria;2020-10-26
+"Amoxicilina;";22;Cairo Kramer;88;Feminino;RS;Primario;6942;Casado;Agressividade;2022-02-03
+"Amoxicilina;";22;Cairo Kramer;88;Feminino;RS;Primario;6942;Casado;Quedas_de_pressao;2020-08-05
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";24;Kibo Morse;73;Masculino;CE;Primario;6970;Casado;Insonia;2021-09-01
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";24;Kibo Morse;73;Masculino;CE;Primario;6970;Casado;Agressividade;2021-12-12
+"Amoxicilina; Escitalopram;";25;Hayley Pena;88;Feminino;RS;Primario;3284;Casado;Normal;2020-05-23
+"Amoxicilina; Escitalopram; Azitromicina;";26;Yasir Talley;74;Feminino;MG;Primario;4864;Casado;Insonia;2020-09-10
+"Amoxicilina;";27;Dai Shelton;71;Feminino;BA;Medio;8632;Casado;Agressividade;2021-09-08
+"Amoxicilina;";27;Dai Shelton;71;Feminino;BA;Medio;8632;Casado;Quedas_de_pressao;2021-07-27
+"Amoxicilina; Escitalopram; Azitromicina;";28;Herrod Hinton;68;Masculino;GO;Primario;7569;Solteiro;Normal;2020-04-21
+"Amoxicilina; Escitalopram; Azitromicina;";28;Herrod Hinton;68;Masculino;GO;Primario;7569;Solteiro;Incontinencia_urinaria;2023-10-01
+"Amoxicilina; Escitalopram;";29;Ila Foster;81;Feminino;CE;Superior;3696;Viuvo;Insonia;2022-12-13
+"Amoxicilina; Escitalopram;";29;Ila Foster;81;Feminino;CE;Superior;3696;Viuvo;Quedas_de_pressao;2020-05-27
+"Amoxicilina; Escitalopram;";29;Ila Foster;81;Feminino;CE;Superior;3696;Viuvo;Quedas_de_pressao;2020-12-20
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";30;Lance Alford;91;Masculino;MA;Medio;8223;Solteiro;Incontinencia_urinaria;2023-06-17
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";30;Lance Alford;91;Masculino;MA;Medio;8223;Solteiro;Incontinencia_urinaria;2022-02-10
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";33;William King;68;Feminino;GO;Superior;3281;Casado;Agressividade;2020-06-22
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";35;Hedy Harrington;66;Masculino;PB;Superior;8778;Separado;Lapsos_de_memoria;2022-03-20
+"Amoxicilina; Escitalopram; Azitromicina;";36;Odysseus Maynard;75;Masculino;SC;Superior;3165;Casado;Incontinencia_urinaria;2022-04-03
+"Amoxicilina; Escitalopram;";38;Vance Poole;90;Masculino;MA;Medio;5090;Separado;Agressividade;2022-12-04
+"Amoxicilina; Escitalopram; Azitromicina;";39;Cole Acevedo;84;Masculino;SP;Superior;5170;Casado;Incontinencia_urinaria;2022-07-26
+"Amoxicilina; Escitalopram;";40;Gay Vargas;68;Feminino;BA;Superior;5695;Separado;Incontinencia_urinaria;2023-08-02
+"Amoxicilina; Escitalopram; Azitromicina;";41;Wayne Battle;66;Feminino;CE;Medio;5918;Casado;Insonia;2022-03-27
+"Amoxicilina; Escitalopram;";45;Leah Wallace;96;Feminino;RJ;Superior;4091;Separado;Lapsos_de_memoria;2022-10-09
+"Amoxicilina; Escitalopram;";45;Leah Wallace;96;Feminino;RJ;Superior;4091;Separado;Insonia;2021-01-22
+"Amoxicilina; Escitalopram;";45;Leah Wallace;96;Feminino;RJ;Superior;4091;Separado;Vomito;2020-06-11
+"Amoxicilina; Escitalopram;";45;Leah Wallace;96;Feminino;RJ;Superior;4091;Separado;Lapsos_de_memoria;2022-02-04
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";48;Ryan Woodward;70;Masculino;PE;Medio;7534;Casado;Insonia;2020-08-06
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";48;Ryan Woodward;70;Masculino;PE;Medio;7534;Casado;Insonia;2021-03-28
+"Amoxicilina; Escitalopram; Azitromicina;";49;Dexter Shaw;78;Masculino;BA;Superior;3325;Solteiro;Lapsos_de_memoria;2020-12-11
+"Amoxicilina; Escitalopram;";50;Jack Nolan;89;Masculino;MA;Primario;7328;Solteiro;Lapsos_de_memoria;2020-12-28
+"Amoxicilina; Escitalopram;";52;Benjamin Craig;72;Masculino;SC;Superior;7616;Casado;Quedas_de_pressao;2023-09-02
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";53;Alana Buckley;76;Feminino;BA;Superior;5872;Separado;Agressividade;2022-03-17
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";53;Alana Buckley;76;Feminino;BA;Superior;5872;Separado;Normal;2023-05-18
+"Amoxicilina; Escitalopram; Azitromicina;";54;Glenna George;75;Masculino;MA;Superior;8938;Separado;Quedas_de_pressao;2022-03-25
+"Amoxicilina; Escitalopram; Azitromicina;";54;Glenna George;75;Masculino;MA;Superior;8938;Separado;Insonia;2023-03-15
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina; Losartana;";55;Malachi Sosa;95;Feminino;CE;Superior;7654;Solteiro;Vomito;2022-09-18
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina; Losartana;";55;Malachi Sosa;95;Feminino;CE;Superior;7654;Solteiro;Agressividade;2020-07-31
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina; Losartana;";55;Malachi Sosa;95;Feminino;CE;Superior;7654;Solteiro;Vomito;2021-07-10
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina; Losartana;";55;Malachi Sosa;95;Feminino;CE;Superior;7654;Solteiro;Lapsos_de_memoria;2020-03-11
+"Amoxicilina;";56;Carly Key;86;Feminino;CE;Medio;2676;Solteiro;Insonia;2023-01-23
+"Amoxicilina;";56;Carly Key;86;Feminino;CE;Medio;2676;Solteiro;Incontinencia_urinaria;2021-02-24
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina; Losartana;";57;Rhiannon Vaughan;69;Feminino;PA;Superior;6173;Separado;Insonia;2020-11-25
+"Amoxicilina; Escitalopram;";59;Alyssa Garcia;97;Feminino;SP;Medio;8441;Viuvo;Incontinencia_urinaria;2021-06-04
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";61;Oprah Fulton;85;Masculino;SP;Medio;3742;Casado;Lapsos_de_memoria;2022-02-22
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";61;Oprah Fulton;85;Masculino;SP;Medio;3742;Casado;Lapsos_de_memoria;2021-09-09
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";61;Oprah Fulton;85;Masculino;SP;Medio;3742;Casado;Insonia;2022-12-12
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";62;Adam Leon;81;Feminino;MA;Superior;5595;Separado;Insonia;2021-11-29
+"Amoxicilina;";64;Sylvia Horn;95;Masculino;MA;Superior;5174;Solteiro;Agressividade;2021-06-27
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";65;Meghan Hurst;95;Masculino;CE;Superior;4876;Solteiro;Insonia;2022-11-05
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";65;Meghan Hurst;95;Masculino;CE;Superior;4876;Solteiro;Normal;2022-11-15
+"Amoxicilina; Escitalopram;";66;Logan Pickett;65;Feminino;BA;Superior;5254;Viuvo;Quedas_de_pressao;2021-05-04
+"Amoxicilina; Escitalopram;";66;Logan Pickett;65;Feminino;BA;Superior;5254;Viuvo;Agressividade;2023-01-28
+"Amoxicilina; Escitalopram;";67;Joelle Rodriguez;75;Feminino;PR;Superior;7977;Solteiro;Agressividade;2023-04-05
+"Amoxicilina; Escitalopram;";69;Drake Perry;82;Feminino;MA;Superior;3112;Separado;Lapsos_de_memoria;2022-07-13
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";70;Thaddeus West;81;Feminino;PE;Primario;5984;Solteiro;Incontinencia_urinaria;2021-06-22
+"Amoxicilina;";71;Leroy Mcconnell;86;Masculino;MA;Superior;8632;Separado;Insonia;2022-10-13
+"Amoxicilina; Escitalopram; Azitromicina; Cefalexina;";72;Ingrid Tran;78;Feminino;GO;Primario;8815;Solteiro;Quedas_de_pressao;2023-03-16
+"Amoxicilina; Escitalopram;";73;Jenna Merritt;79;Feminino;CE;Superior;2879;Solteiro;Lapsos_de_memoria;2022-04-09
+"Amoxicilina; Escitalopram;";73;Jenna Merritt;79;Feminino;CE;Superior;2879;Solteiro;Quedas_de_pressao;2023-01-05
+"Amoxicilina; Escitalopram; Azitromicina;";74;Edward Michael;76;Feminino;PA;Superior;3047;Casado;Lapsos_de_memoria;2020-02-17
+"Amoxicilina; Escitalopram; Azitromicina;";74;Edward Michael;76;Feminino;PA;Superior;3047;Casado;Agressividade;2021-06-18
+"Amoxicilina; Escitalopram;";76;Luke Shields;87;Feminino;PA;Superior;6021;Casado;Quedas_de_pressao;2021-11-05
+"Amoxicilina;";77;Nina Larsen;90;Masculino;PA;Medio;5991;Casado;Insonia;2023-09-02
+"Amoxicilina;";78;Theodore Guthrie;77;Masculino;PE;Superior;3241;Solteiro;Quedas_de_pressao;2020-12-05
+"Amoxicilina; Escitalopram; Azitromicina;";80;Veda Sears;73;Masculino;PA;Superior;4244;Separado;Incontinencia_urinaria;2021-08-30
+"Amoxicilina; Escitalopram; Azitromicina;";80;Veda Sears;73;Masculino;PA;Superior;4244;Separado;Lapsos_de_memoria;2023-06-28
